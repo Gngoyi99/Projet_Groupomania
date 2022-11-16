@@ -1,0 +1,1 @@
+L'installation du projet est très simple il vous suffit de démarrer le server dans un preemier temps en vous dirigeant dans le dossier Backend(Manipulation à réaliser cd Backend)ensuite lorsque vous etes à ce niveau il ne vous reste plus que le démarrage avec npm start ce qui lancera node.js.

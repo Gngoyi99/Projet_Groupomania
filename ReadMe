@@ -1,1 +1,10 @@
+Backend:
 L'installation du projet est très simple il vous suffit de démarrer le server dans un preemier temps en vous dirigeant dans le dossier Backend(Manipulation à réaliser cd Backend)ensuite lorsque vous etes à ce niveau il ne vous reste plus que le démarrage avec npm start ce qui lancera node.js.
+
+Frontend:
+L'installation du frontend est similaire a celle du Backend sauf qu'il faudra se rendre sur le dossier Frontend cette fois-ci et lorsque vous êtes dessus exécuté npm start ce qui va démarrer React en vous dirigeant sur la page web du site Groupomania.  
+
+Base de donnée:
+La Base de donnée utilisé est celle de MongoDB tout les renseignement pour se connecter sont sur le fichier se trouvant dans le dossier Backend/db.js.
+Pour plus de simplicité vous pouvez télécharger MongoDb Compass la connexion à la base de donnée est rapide.
+
